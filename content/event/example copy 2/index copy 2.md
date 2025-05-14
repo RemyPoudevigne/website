@@ -1,5 +1,5 @@
 ---
-title: Le VRJP : un tour d'horizon
+title: Le VRJP, un tour d'horizon
 
 event: Séminaire probas du vendredi
 event_url: 
