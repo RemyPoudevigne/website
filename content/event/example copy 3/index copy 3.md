@@ -60,3 +60,4 @@ slides: ""
 projects:
   - example
 ---
+Workshop on Random walks, localisation and reinforcement, Sorbonne Université, 2023

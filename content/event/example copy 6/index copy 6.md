@@ -19,7 +19,7 @@ abstract:
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2022
 #date_end: '2030-06-01T15:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-05-14T19:57:00Z'
@@ -61,3 +61,4 @@ slides: ""
 projects:
   - example
 ---
+Probability Seminar, Institute of Mathematics, University of Warsaw, 2022

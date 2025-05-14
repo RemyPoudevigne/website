@@ -61,3 +61,4 @@ slides: ""
 projects:
   - example
 ---
+Marche Aléeatoire en interaction, Les Diablerets, 2019

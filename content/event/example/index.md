@@ -61,3 +61,4 @@ slides: ""
 projects:
   - example
 ---
+Marche Aléatoire en interaction, Aussois, 2018

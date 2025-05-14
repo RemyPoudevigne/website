@@ -1,7 +1,7 @@
 ---
 title: Le VRJP, un tour d'horizon
 
-event: Séminaire probas du vendredi
+event: Les probas du vendredi
 event_url: 
 
 location: LPSM, Sorbonne Université
@@ -17,7 +17,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018
+date: 2024
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -61,3 +61,4 @@ slides: ""
 projects:
   - example
 ---
+Les probas du vendredi, LPSM, Sorbonne Université, 2024

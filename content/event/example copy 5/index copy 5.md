@@ -4,7 +4,7 @@ title: Slow phase transition for the VRJP on the tree
 event: Mini workshop on reinforcement and statistical mechanics
 event_url: 
 
-location: Technische Universit\"at M\"unchen
+location: Technische Universität München
 address:
   street: 
   city: 
@@ -61,3 +61,4 @@ slides: ""
 projects:
   - example
 ---
+Mini workshop on reinforcement and statistical mechanics, Technische Universität München, 2022

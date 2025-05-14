@@ -61,3 +61,4 @@ slides: ""
 projects:
   - example
 ---
+Séminaire des doctorants et doctorantes de Lyon, Université Lyon 1, 2019

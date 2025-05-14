@@ -61,3 +61,4 @@ slides: ""
 projects:
   - example
 ---
+Séminaire de probabilité, Université de Rennes, 2024
