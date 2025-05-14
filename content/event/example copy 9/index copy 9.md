@@ -1,5 +1,5 @@
 ---
-title: Monotonicity and phase transition for the edge-reinforced random walk
+title: Monotonicity and phase transition for the ERRW and the VRJP
 
 event: Marche Aléeatoire en interaction
 event_url: 
