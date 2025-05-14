@@ -1,10 +1,10 @@
 ---
-title: A limit theorem for a random walk in random environment
+title: Marches aléatoires dans des réseaux électriques
 
-event: Marche Aléatoire en interaction
+event: Séminaire des doctorants et doctorantes de Lyon
 event_url: 
 
-location: Aussois
+location: Université Lyon 1
 address:
   street: 
   city: 
@@ -17,12 +17,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018
+date: 2019
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-05-14T17:33:00Z'
+publishDate: '2025-05-14T19:51:00Z'
 
 authors:
   - admin

@@ -99,6 +99,8 @@ work:
   #  summary: |
       #I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 
+---
+
 ## About Me
 
-#Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Postdoc at LPSM (Sorbonne Université) with Quentin Berger (LAGA, Sorbonne Paris Nord). My main focus is on random walks in random environments, especially the VRJP. I am also interested in other areas of mathematical physics including: spins systems, percolation, random forests and Bienaymé-Galton-Watson trees.   

@@ -1,10 +1,10 @@
 ---
-title: A limit theorem for a random walk in random environment
+title: Le VRJP : un tour d'horizon
 
-event: Marche Aléatoire en interaction
+event: Séminaire probas du vendredi
 event_url: 
 
-location: Aussois
+location: LPSM, Sorbonne Université
 address:
   street: 
   city: 

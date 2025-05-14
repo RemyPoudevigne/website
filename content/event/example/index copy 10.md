@@ -1,10 +1,10 @@
 ---
-title: A limit theorem for a random walk in random environment
+title: Transition de phase pour le VRJP sur les arbres et lien avec l'algorithme de Metropolis
 
-event: Marche Aléatoire en interaction
+event: Séminaire de probabilité
 event_url: 
 
-location: Aussois
+location: Université de Rennes
 address:
   street: 
   city: 
@@ -17,7 +17,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018
+date: 2024
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 

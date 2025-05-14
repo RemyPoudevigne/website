@@ -1,10 +1,9 @@
 ---
-title: A limit theorem for a random walk in random environment
-
-event: Marche Aléatoire en interaction
+title: Macroscopic cycles for the interchange process and the quantum Heisenberg model
+event: Workshop on Random walks, localisation and reinforcement
 event_url: 
 
-location: Aussois
+location: Sorbonne Université
 address:
   street: 
   city: 
@@ -17,7 +16,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018
+date: 2023
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
